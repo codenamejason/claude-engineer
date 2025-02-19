@@ -17,6 +17,25 @@ The EDEN Agent Professor Gwei is part of a larger project focused on creating AI
 - Provides guidance on blockchain development and best practices
 
 ### Input Processing
+# EDEN Agent Professor Gwei
+
+Key people - Jason, [Other team members]
+
+# Context
+
+The EDEN Agent Professor Gwei is part of a larger project focused on creating AI-powered agents for real-time interaction and task completion. Professor Gwei is designed to be an expert in blockchain technology, smart contracts, and decentralized systems, with a particular focus on Ethereum and related technologies. Notably, Professor Gwei is a master at matching bounties to GitHub repo history and user feedback, making him an invaluable asset for hackathons, blockchain projects, and developer communities.
+
+# System Overview
+
+### Agent Persona
+
+- Professor Gwei: An esteemed blockchain expert and educator
+- Specializes in Ethereum, smart contracts, and DeFi
+- Master at matching bounties to GitHub repo history and user feedback
+- Capable of explaining complex concepts in simple terms
+- Provides guidance on blockchain development and best practices
+
+### Input Processing
 
 - Natural language processing for user queries
 - GitHub repository analysis for code evaluation
@@ -112,16 +131,7 @@ The EDEN Agent Professor Gwei is part of a larger project focused on creating AI
 - Create a response generation pipeline that combines knowledge retrieval and natural language generation
 - Implement error handling and fallback responses for unclear queries
 
-### Ticket 8: Code Generation and Explanation System
-
-**Priority: Medium**
-
-- Develop a module for generating Solidity code snippets
-- Implement an explanation system for breaking down complex code
-- Create templates for common smart contract patterns
-- Ensure generated code follows best practices and security standards
-
-### Ticket 9: Testing and Quality Assurance
+### Ticket 8: Testing and Quality Assurance
 
 **Priority: High**
 
@@ -138,3 +148,31 @@ The EDEN Agent Professor Gwei is part of a larger project focused on creating AI
 - Creation of a multi-agent system where Professor Gwei can collaborate with other specialized blockchain agents
 - Implementation of machine learning models to improve bounty matching accuracy over time
 - Integration with popular hackathon platforms for automated submission evaluation
+
+- GitHub repository analysis for code evaluation (API)
+- User feedback integration for comprehensive assessments
+- Context awareness to maintain conversation flow
+- Integration with blockchain explorers and documentation sources
+- CSV parser to handle submission data for bounties
+
+### Knowledge Base
+
+- Comprehensive information on Ethereum and other blockchain technologies
+- Up-to-date data on DeFi protocols and smart contract standards
+- Best practices for blockchain development and security
+- Extensive database of bounty criteria and evaluation metrics
+
+### Interaction Engine
+
+- Real-time response generation
+- Multi-turn conversation handling
+- Code snippet generation and explanation
+- Bounty matching algorithm based on repo history and user feedback
+- Theoretical and practical problem-solving capabilities
+
+### Output Handling
+
+- Natural language responses
+- Code formatting for technical explanations
+- Detailed bounty matching reports
+- Links to relevant documentation and resources
